@@ -32,3 +32,30 @@ Aplicación:
 - Rockcola
 - Canicas Juego del Calamar
 
+Clase 5 - 14 de Marzo / 2023
+Clase 6 - 21 y 28 de Marzo / 2023
+
+Temas:
+- Sobrecarga y Sobrescristura de Métodos
+- Polimorfismo en Java
+- Estuctura de Control Iterativa FOR
+- Método de Accesibilidad TOSTRING
+- Métodos Estáticos y No Estáticos
+
+Aplicación:
+- Suma (Guassiana) de los antecesores de un número n
+- Factorial de un número n
+- Canción iterativa de 12 dias de Navidad
+
+Clase 7 - 18 de Abril / 2023
+
+Temas: 
+- Clases y Objetos
+- Métodos de accesibilidad Setter's and Getter's
+- Manejo de Arreglos de 1D y 2D (Matrices y vectores de objetos)
+
+Aplicación:
+- Juego de Battle Ship con dos direcciones y dos jugadores
+
+
+
