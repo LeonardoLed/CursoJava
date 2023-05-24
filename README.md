@@ -47,12 +47,15 @@ Aplicación:
 - Factorial de un número n
 - Canción iterativa de 12 dias de Navidad
 
-Clase 7 - 18 de Abril / 2023
+Clase 7 - 18 de Abril, 9 de Mayo, 16 de Mayo, 23 de Mayo / 2023
 
 Temas: 
 - Clases y Objetos
 - Métodos de accesibilidad Setter's and Getter's
 - Manejo de Arreglos de 1D y 2D (Matrices y vectores de objetos)
+- Manejo de Expeciones tipo Try-Cacth
+- Manejo de Expeciones Throws/Throw
+- Estructura de tipo ArrayList
 
 Aplicación:
 - Juego de Battle Ship con dos direcciones y dos jugadores
